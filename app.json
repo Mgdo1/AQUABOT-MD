@@ -9,7 +9,7 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
+            "description": "AQUA=NpwhWZwa#G-GE7CTeNsLACrljjKc0S12CO5MzWpI_eQ2fiTdF6y8",
             "required": true
              },
             "NO_ONLINE": {
