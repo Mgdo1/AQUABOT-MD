@@ -10,7 +10,7 @@
      "env": {
             "AQUA_SESSION": {
             "description": "",
-                "value" : "AQUA=RkYCGL6Z#V0VxH7MPOs8QzzaD8DmIehHKEc_Jc2jYv6nFOZM-lIQ"  ,
+                "value" : "AQUA=J4ZTFK4S#n9CPNBJWCpDI15GKxE_HPlMQPzud8yMXArHXSNyst0E"  ,
             "required": true
              },
             "NO_ONLINE": {
@@ -168,7 +168,7 @@
          "HEROKU_API_KEY": {
             "description": "",
             "value": "" ,
-            "required": true
+            "required": false
       },
          "HEROKU_APP_NAME": {
             "description": "",
